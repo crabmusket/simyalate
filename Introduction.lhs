@@ -1,9 +1,11 @@
 Introduction
 ============
 
+_This file is a literate Haskell file.
+You can compile or run it like a regular Haskell program using `ghc --make Introduction.lhs && ./Introduction` or `runhaskell Introduction.lhs`._
+
 Welcome to this brief introduction to simulating physical systems with Yampa, a Haskell library for functional reactive programming (FRP).
-This file is a _literate Haskell_ file.
-You can compile or run it like a regular Haskell program using `ghc --make Introduction.lhs && ./Introduction` or `runhaskell Introduction.lhs`.
+The first thing we do to work with Yampa, of course, is import it:
 
 > import FRP.Yampa
 
