@@ -2,4 +2,5 @@ simyalate
 =========
 
 Examples of simulating physical systems with Yampa.
-Start at the [introduction](./Introduction.lhs).
+
+ 1. [Introduction](./Introduction.lhs)
